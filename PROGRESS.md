@@ -3,7 +3,7 @@
 _Newest first. Keep under ~80 lines._
 
 ## Status
-- Built and tested 2026-10-13. Notes app + Supabase analytics + dashboard ready. Not yet pushed to GitHub or connected to a Supabase project.
+- 2026-10-13: live on GitHub Pages at https://gaurav455106.github.io/programmatic-notes/ (repo Gaurav455106/programmatic-notes). Sidebar has an Analytics link to dashboard.html. Supabase not connected yet: config.js is empty.
 
 ## Decisions (with reasons)
 - Plain HTML, no build: matches the workspace default; GitHub Pages serves it directly.
